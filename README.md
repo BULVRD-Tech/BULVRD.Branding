@@ -4,10 +4,10 @@ Repo for holding reference documentation related to BULVRD branding
 
 ## High Level
 
-Primary Color : #11A1B8
+Primary Color : #0198B5
 
-Primary Color Dark : #028597
+Primary Color Dark : #017388
 
-Accent Color : #7F216F
+Accent Color : #A71A5E
 
 Font : D3 Euronism
